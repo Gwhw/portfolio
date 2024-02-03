@@ -33,23 +33,23 @@
     }
     
     body {
-        background-color: #007eff;
+        background-color: #424549;
     }
     
     .bio p {
-        background-color: #ffffff;
+        background-color: #3a533d;
         max-width: 30vw;
         text-align: center;
         padding: 0.5vw;
         margin: 0 auto;
-        box-shadow: 0.5vw 0.5vw #ff8b8b;
+        box-shadow: 0.5vw 0.5vw	#99aab5;
         border-radius: 1vw;
         font-size: 1.2vw;
         transition-duration: 0.3s;
     }
     
     .bio p:hover {
-        box-shadow: 0.5vw 1.5vw #ff8b8b;
+        box-shadow: 0.5vw 1.5vw 	#99aab5;
         transform: translate(0, -0.5vw);
     }
     
@@ -63,7 +63,7 @@
         /* margin: 0 auto; */
         font-size: 2.5vw;
         text-align: center;
-        color: #ffffff;
+        color: 	#424549;
         margin: 1vw;
         text-shadow: 0.3vw 0.3vw #000000;
     }
@@ -75,18 +75,18 @@
     }
     
     .projects .buttons .proj-button {
-        background-color: #ffffff;
+        background-color: #424549;
         width: 13vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ece555;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     
     .projects .buttons .proj-button:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 0.5vw #ece555;
+        box-shadow: 1.5vw 0.5vw #99aab5;
     }
     
     .projects .buttons .proj-button p {
@@ -113,17 +113,17 @@
     }
     
     .more-about-me .buttons .about-box {
-        background-color: #ffffff;
+        background-color: #3a533d;
         width: 16vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ecaf29;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     .more-about-me .buttons .about-box:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 0.5vw #ecaf29;
+        box-shadow: 1.5vw 0.5vw #99aab5;
     }
     .more-about-me h2 {
         margin: 0 auto;
@@ -185,7 +185,7 @@
     }
     
     .heady a {
-        color: #ffffff;
+        color: #3a533d;
         text-decoration: underline;
         font-size: 1.4vw;
     }
@@ -194,7 +194,7 @@
         margin: auto;
         font-size: 3.7vw;
         text-align: center;
-        color: #ffffff;
+        color: #3a533d;
         margin: 1vw auto;
         text-shadow: 0.4vw 0.4vw #000000;
     }
@@ -204,7 +204,7 @@
     }
     
     .bio p {
-        background-color: #ffffff;
+        background-color: #3a533d;
         max-width: 30vw;
         text-align: center;
         padding: 0.5vw;
@@ -216,7 +216,7 @@
     }
     
     .bio p:hover {
-        box-shadow: 0.5vw 1.5vw #ff8b8b;
+        box-shadow: 0.5vw 1.5vw #3a533d;
         transform: translate(0, -0.5vw);
     }
     
@@ -231,7 +231,7 @@
         /* margin: 0 auto; */
         font-size: 2.5vw;
         text-align: center;
-        color: #ffffff;
+        color: #3a533d;
         margin: 1vw;
         text-shadow: 0.3vw 0.3vw #000000;
     }
@@ -243,18 +243,18 @@
     }
     
     .projects .buttons .proj-button {
-        background-color: #ffffff;
+        background-color: #3a533d;
         width: 30vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ece555;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     
     .projects .buttons .proj-button:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 0.5vw #ece555;
+        box-shadow: 1.5vw 0.5vw #99aab5;
     }
     
     .projects .buttons .proj-button p {
@@ -281,17 +281,17 @@
     }
     
     .more-about-me .buttons .about-box {
-        background-color: #ffffff;
+        background-color: #3a533d;
         width: 32vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ecaf29;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     .more-about-me .buttons .about-box:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 0.5vw #ecaf29;
+        box-shadow: 1.5vw 0.5vw #99aab5;
     }
     .more-about-me h2 {
         margin: 0 auto;
@@ -354,7 +354,7 @@
     }
     
     .heady a {
-        color: #ffffff;
+        color: #3a533d;
         text-decoration: underline;
         font-size: 1.4vw;
     }
@@ -363,7 +363,7 @@
         margin: auto;
         font-size: 5vw;
         text-align: center;
-        color: #ffffff;
+        color: #3a533d;
         margin: 1vw auto;
         text-shadow: 0.4vw 0.4vw #000000;
     }
@@ -373,7 +373,7 @@
     }
     
     .bio p {
-        background-color: #ffffff;
+        background-color:  #3a533d;
         max-width: 50vw;
         text-align: center;
         padding: 0.5vw;
@@ -400,7 +400,7 @@
         /* margin: 0 auto; */
         font-size: 4.8vw;
         text-align: center;
-        color: #ffffff;
+        color: #3a533d;
         margin: 1vw;
         text-shadow: 0.5vw 0.5vw #000000;
     }
@@ -412,18 +412,18 @@
     }
     
     .projects .buttons .proj-button {
-        background-color: #ffffff;
+        background-color: #3a533d;
         width: 40vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ece555;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     
     .projects .buttons .proj-button:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 1.5vw #ece555;
+        box-shadow: 1.5vw 1.5vw #99aab5;
     }
     
     .projects .buttons .proj-button p {
@@ -450,23 +450,23 @@
     }
     
     .more-about-me .buttons .about-box {
-        background-color: #ffffff;
+        background-color: #3a533d;
         width: 40vw;
         text-align: center;
         padding: 0.4vw;
-        box-shadow: 0.5vw 0.5vw #ecaf29;
+        box-shadow: 0.5vw 0.5vw #99aab5;
         border-radius: 1vw;
         transition-duration: 0.3s;
     }
     .more-about-me .buttons .about-box:hover {
         transform: translate(-0.5vw, 0);
-        box-shadow: 1.5vw 1.5vw #ecaf29;
+        box-shadow: 1.5vw 1.5vw #99aab5;
     }
     .more-about-me h2 {
         margin: 0 auto;
         font-size: 4.8vw;
         text-align: center;
-        color: #ffffff;
+        color: #3a533d;
         margin: 1vw;
         text-shadow: 0.3vw 0.3vw #000000;
     
